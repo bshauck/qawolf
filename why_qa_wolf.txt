@@ -1,2 +1,3 @@
 I am excited about the opportunity to join QA Wolf as a QA Engineer, believing strongly that my extensive experience in software development, particularly in creating and maintaining automated tests, positions me exceptionally well for this role. Here's why I am a good fit:
 
+Technical Expertise: My background in JavaScript, HTML, and CSS, coupled with practical experience in using Chrome DevTools, aligns with the technical requirements of creating and maintaining tests in JavaScript/Playwright. My projects, SpotiFrog and Basana, demonstrate my capability to develop complex applications and troubleshoot issues effectively, mirroring the technical chops needed for QA Wolf's mission.
